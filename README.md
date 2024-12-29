@@ -17,6 +17,8 @@ By systematically documenting every project I create with OpenGL, this repositor
   A comprehensive guide to OpenGL with tutorials and examples.  
 - [YouTube OpenGL Series](https://www.youtube.com/watch?v=W3gAzLwfIP0&list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2)  
   A playlist covering OpenGL development from the basics to advanced topics.
+- [BookOfShaders](https://thebookofshaders.com/01/)
+  A book covering shader basics.
 
 ---
 
